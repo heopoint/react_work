@@ -1,0 +1,13 @@
+.main-bg {
+  height: 385px;
+  background: url('/public/mainvisual.jpg') center/cover;
+}
+.product img {
+  width: 100%;
+}
+.navbar-brand {
+  cursor: pointer;
+}
+.more {
+  text-align: center;
+}
